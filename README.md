@@ -1,2 +1,2 @@
 # smartWatch
-counts steps, calculates temperature.
+Counts steps, Calculates temperature.
